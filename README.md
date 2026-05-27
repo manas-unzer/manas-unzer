@@ -75,29 +75,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- Stats cards with long cache to avoid rate limiting -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manas-unzer&show_icons=true&theme=radical&count_private=true&hide_border=true&cache_seconds=86400"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas-unzer&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=86400"/>
-
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=manas-unzer&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=manas-unzer&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6"/>
-</div>
-
 ---
 
 <div align="center">
