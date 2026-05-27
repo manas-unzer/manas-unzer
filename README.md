@@ -41,6 +41,7 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Lit](https://img.shields.io/badge/Lit-324FFF?style=for-the-badge&logo=lit&logoColor=white)
 
 ### 🧑‍💻 Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -48,6 +49,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-BF4080?style=for-the-badge&logo=sass&logoColor=white)
 
 ### 🎨 Styling & Design Systems
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -56,6 +58,8 @@
 
 ### 🧪 Testing
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 
 ### ⚙️ Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -75,13 +79,15 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manas-unzer&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas-unzer&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+<!-- Stats cards with long cache to avoid rate limiting -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manas-unzer&show_icons=true&theme=radical&count_private=true&hide_border=true&cache_seconds=86400"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas-unzer&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=86400"/>
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manas-unzer&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=manas-unzer&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -89,15 +95,15 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=manas-unzer&theme=radical&no-frame=true&no-bg=false&margin-w=6&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=manas-unzer&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6"/>
 </div>
 
 ---
 
 <div align="center">
 
-<!-- Animated SVG: 6 quotes cycle every 30 seconds via CSS keyframes — no JS, no refresh needed -->
-<img src="./quote-ticker.svg" width="680" alt="Dev Quote — rotates every 30 seconds"/>
+### 💬 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
